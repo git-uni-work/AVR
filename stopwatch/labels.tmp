@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega169</DEVICE>
+ <WORKING_DIR>C:\Users\samymbas\AppData\Local\Temp</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m169def.inc</FILE>
+  <FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\print.inc</FILE>
+  <FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\znaky.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init_disp><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\print.inc</FILE><LINE>3</LINE></init_disp>
+  <show_char><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\print.inc</FILE><LINE>18</LINE></show_char>
+  <nemezera><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\print.inc</FILE><LINE>35</LINE></nemezera>
+  <znaky><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\znaky.inc</FILE><LINE>8</LINE></znaky>
+  <zobzc><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\print.inc</FILE><LINE>55</LINE></zobzc>
+  <s><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>6</LINE></s>
+  <ms><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>7</LINE></ms>
+  <milli><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>8</LINE></milli>
+  <secs><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>9</LINE></secs>
+  <mins><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>10</LINE></mins>
+  <setup><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>24</LINE></setup>
+  <inthandlr><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>113</LINE></inthandlr>
+  <reset><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>60</LINE></reset>
+  <joystick><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>86</LINE></joystick>
+  <loop><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>93</LINE></loop>
+  <millisec><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>130</LINE></millisec>
+  <secsmins><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>149</LINE></secsmins>
+  <display><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>183</LINE></display>
+  <main><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>226</LINE></main>
+  <restore><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>213</LINE></restore>
+  <joystick2><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>232</LINE></joystick2>
+  <delay1><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>239</LINE></delay1>
+  <delay2><FILE>\\ucebnysad.ucebny.adfit.fit.cvut.cz\home\s\samymbas\Downloads\stopwatch2.0\sw.asm</FILE><LINE>242</LINE></delay2>
+ </LABELS>
+</ASSEMBLER_INFO>
